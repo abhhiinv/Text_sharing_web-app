@@ -243,5 +243,4 @@ function MainPage({ user, token, onLogout, apiUrl, darkMode, toggleDarkMode }) {
   );
 }
 
-
 export default MainPage;
